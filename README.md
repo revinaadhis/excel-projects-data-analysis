@@ -1,3 +1,5 @@
+📊 Excel Data Analyst Projects
+
 ##  Overview
 
 This repository contains a collection of data analysis projects built using Microsoft Excel. Each project demonstrates data cleaning, data transformation, and data visualization techniques using real-world datasets obtained from various sources such as online platforms and tutorial videos.
